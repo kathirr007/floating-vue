@@ -2,6 +2,10 @@
 
 
 
+# [2.0.0-beta.22](https://github.com/kathirr007/floating-vue/compare/v2.0.0-beta.21...v2.0.0-beta.22) (2023-03-10)
+
+
+
 # [2.0.0-beta.20](https://github.com/Akryum/v-tooltip/compare/v2.0.0-beta.19...v2.0.0-beta.20) (2022-09-08)
 
 
