@@ -1,3 +1,12 @@
+# [2.0.0-beta.23](https://github.com/kathirr007/floating-vue/compare/v2.0.0-beta.22...v2.0.0-beta.23) (2023-03-10)
+
+
+### Bug Fixes
+
+* fixed file name issue for export ([d2746bb](https://github.com/kathirr007/floating-vue/commit/d2746bb6ae465db148391b801822017c47752ff8))
+
+
+
 # [2.0.0-beta.22](https://github.com/kathirr007/floating-vue/compare/v2.0.0-beta.21...v2.0.0-beta.22) (2023-03-10)
 
 
